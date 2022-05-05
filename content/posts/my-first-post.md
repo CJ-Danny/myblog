@@ -1,7 +1,6 @@
 ---
-title: "My First Pot"
-date: 2022-05-05T18:09:03+08:00
-draft: false
+# My First Post
 我的第一篇博客
+May 5,2022
 ---
 
